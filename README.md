@@ -1,10 +1,3 @@
-<!-- <p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,js,css,html,jquery,mongodb,github &perline=7"/>
-</p>
-<p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=styledcomponents,ae,ai,ps,pr,figma,blender,css &perline=6"/>
-</p> -->
-
 <div align="center">
   
 # 놀러오세요 🎠
