@@ -1,6 +1,6 @@
 놀러오세요🎠
 --------
-📌<a href="https://0zi-l0gis.tistory.com/" > <img src="https://img.shields.io/badge/Tistory-FDB515?style=flat&logo=Tistory&logoColor=white"/> </a>
+📌<a href="https://0zi-l0gis.tistory.com/" > <img src="https://img.shields.io/badge/Tistory-FDB515?style=flat&logo=Tistory&logoColor=white"/> </a> <br/>
 📊[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=0zimushr00m)](https://solved.ac/0zimushr00m)
 <!--
 **0zimushr00m/0zimushr00m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
