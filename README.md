@@ -12,7 +12,7 @@
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0zimushr00m&layout=compact&theme=dark) -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={0zimushr00m})](https://solved.ac/{0zimushr00m})
 </div> 
  
 
