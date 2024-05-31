@@ -11,7 +11,8 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0zimushr00m&layout=compact&theme=dark) 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0zimushr00m&layout=compact&theme=dark) -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 </div> 
  
 
